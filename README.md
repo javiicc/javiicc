@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Software Developer with a background in Finance and Data Science and a passion for continuous learning and improvement.
+
+I love creating software systems that impacts the lives of customers and people by helping them achieve their goals. Among my main concerns are the design and implementation of mechanisms that improve code stability, performance, and reusability, as well as product lifecycle and scalability.
+
+Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/javier-castano-candela/) or my [website](https://www.javiercastano.dev/)
