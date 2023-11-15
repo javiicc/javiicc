@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there! 👋🏽
-
 I am a Software Developer with a background in Finance and Data Science and a passion for continuous learning and improvement.
 
 I thrive on developing innovative and robust software solutions by designing and implementing mechanisms that improve stability, performance and reusability.
