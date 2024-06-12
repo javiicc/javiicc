@@ -19,4 +19,6 @@ I am a Software Developer with a background in Finance and Data Science and a pa
 
 I thrive on developing innovative and robust software solutions by designing and implementing mechanisms that improve stability, performance and reusability.
 
-Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/javier-castano-candela/) or my website [javideveloper.com](https://www.javideveloper.com/)
+Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/javier-castano-candela/).
+
+Website [javideveloper.com](https://www.javideveloper.com/)
